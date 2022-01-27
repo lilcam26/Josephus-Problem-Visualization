@@ -1,1 +1,1 @@
-"# Josephus-Problem-Visualization" 
+This program will ask you to input specifications for your circle and then visualizes the old problem of Josephus with java using a linked list.
